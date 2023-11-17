@@ -13,7 +13,7 @@ li{
     display: inline-block;
     margin: 2%;
     color: blue;
-    font-size: 30px;
+    font-size: 18px;
 }
 ul li:hover{
     color:red;
@@ -21,7 +21,7 @@ ul li:hover{
 }
 img{
     border-radius: 50%;
-    width:220 ; height:200;
+    width:180; height:200;
     animation: animate 4s linear infinite;
     animation-delay: -1s;
     transition: all 0.5s ease;
@@ -64,8 +64,8 @@ body img:hover{
     display:inline-block;
     align-items: center;
     justify-content: center;
-    width: 50px;
-    height: 70px;
+    width: 40px;
+    height: 60px;
     margin: 5px;
     border: 2px solid blue;
     animation: border-animation 3s infinite
