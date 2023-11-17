@@ -20,8 +20,8 @@ ul li:hover{
     text-decoration-color: aliceblue;
 }
 img{
-    border-radius: 100%;
-    width: 400; height: 380;
+    border-radius: 50%;
+    width:220 ; height:200;
     animation: animate 4s linear infinite;
     animation-delay: -1s;
     transition: all 0.5s ease;
@@ -64,8 +64,8 @@ body img:hover{
     display:inline-block;
     align-items: center;
     justify-content: center;
-    width: 100px;
-    height: 150px;
+    width: 50px;
+    height: 70px;
     margin: 5px;
     border: 2px solid blue;
     animation: border-animation 3s infinite
