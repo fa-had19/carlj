@@ -21,7 +21,7 @@ ul li:hover{
 }
 img{
     border-radius: 50%;
-    width:180; height:160;
+    width:180; height:180;
     animation: animate 4s linear infinite;
     animation-delay: -1s;
     transition: all 0.5s ease;
@@ -95,8 +95,8 @@ body img:hover{
   .facebook-login {
     display: inline-block;
     padding: 5px 10px;
-    background-color: blue; /* Facebook blue color */
-    color: #fff;
+    background-color: purple; /* Facebook blue color */
+    color: blue;
     border: none;
     border-radius: 5px;
     font-size: 16px;
